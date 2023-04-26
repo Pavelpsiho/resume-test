@@ -1,3 +1,3 @@
 # resume-test
 
-[here](https://pavelpsiho.github.io/homework1/)
+[here](https://pavelpsiho.github.io/resume-test/)
