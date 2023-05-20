@@ -1,11 +1,11 @@
 const swiper = new Swiper(".swiper", {
     effect: "fade",
     pagination: {
-        el: ".swiper-pagination",
+        el: ".swiper-pagination"
         },
         autoplay: {
         delay: 3000,
         disableOnInteraction: false,
       },
-      keyboard: true,
+      keyboard: true
 });
